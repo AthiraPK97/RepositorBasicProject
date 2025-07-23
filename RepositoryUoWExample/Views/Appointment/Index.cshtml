@@ -1,0 +1,28 @@
+﻿@model IEnumerable<RepositoryUoWExample.Models.Appointment>
+
+@{
+    ViewBag.Title = "Appointments";
+}
+
+<h2>Appointments</h2>
+
+<p>
+    @Html.ActionLink("Book New Appointment", "Create")
+</p>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Patient</th>
+        <th>Date & Time</th>
+        <th>Reason</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.PatientName</td>
+            <td>@item.AppointmentDateTime.ToString("g")</td>
+            <td>@item.Reason</td>
+        </tr>
+    }
+</table>
