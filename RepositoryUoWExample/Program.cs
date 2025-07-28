@@ -1,7 +1,8 @@
 using RepositoryUoWExample.Models;
 using Microsoft.EntityFrameworkCore;
 using RepositoryUoWExample.Data;
-using RepositoryUoWExample.Repository;
+using RepositoryUoWExample.Layer1;
+using RepositoryUoWExample.Layer2;
 
 var builder = WebApplication.CreateBuilder(args);
 

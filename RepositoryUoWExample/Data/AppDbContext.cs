@@ -13,6 +13,17 @@ namespace RepositoryUoWExample.Data
         }
 
         public DbSet<Appointment> Appointments { get; set; }
+        public DbSet<Patient> Patients { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Appointment>()
+                .HasOne(a => a.Patient)
+                .WithMany(p => p.Appointments) // ← reverse navigation
+                .HasForeignKey(a => a.PatientId)
+                .OnDelete(DeleteBehavior.Cascade); // Or Restrict or SetNull as needed
+        }
+
+
     }
 
 

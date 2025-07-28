@@ -3,52 +3,39 @@
   "WorkspaceRootPath": "D:\\Projects\\RepositoryUoWExample\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\repository\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\repository\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\AppData\\Local\\SourceServer\\940bc666f0adf4c5f96e1780d22ea2d9be48bf721fc942216628a5c55999e5fa\\RepositoryUoWExample\\Controllers\\AppointmentController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\views\\appointment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\repositoryuowexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\repositoryuowexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\repository\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\views\\appointment\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\layer2\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\layer2\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|d:\\projects\\repositoryuowexample\\repositoryuowexample\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5261B9B4-1167-4F0D-A982-C9400CB8A3D6}|RepositoryUoWExample\\RepositoryUoWExample.csproj|solutionrelative:repositoryuowexample\\controllers\\patientcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,55 +45,63 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\IRepository.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Repository\\IRepository.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\IRepository.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Repository\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RepositoryUoWExample\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "RepositoryUoWExample\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:20:26.434Z"
+              "WhenOpened": "2025-07-28T03:46:15.547Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "AppointmentController.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Controllers\\AppointmentController.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Controllers\\AppointmentController.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Controllers\\AppointmentController.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Controllers\\AppointmentController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFQAAAA4AAAAAAAAAA==",
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "RepositoryUoWExample\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Models\\Appointment.cs",
+              "RelativeToolTip": "RepositoryUoWExample\\Models\\Appointment.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA4AAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:12:11.778Z"
+              "WhenOpened": "2025-07-28T03:45:56.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Program.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Program.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Program.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "RepositoryUoWExample\\Models\\Patient.cs",
+              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Models\\Patient.cs",
+              "RelativeToolTip": "RepositoryUoWExample\\Models\\Patient.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:18:03.693Z"
+              "WhenOpened": "2025-07-28T03:45:49.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Repository\\UnitOfWork.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\UnitOfWork.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Repository\\UnitOfWork.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:22:39.821Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
+              "RelativeDocumentMoniker": "RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
+              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
+              "RelativeToolTip": "RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T03:40:34.218Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -116,94 +111,60 @@
               "RelativeDocumentMoniker": "RepositoryUoWExample\\Views\\Appointment\\Create.cshtml",
               "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Views\\Appointment\\Create.cshtml",
               "RelativeToolTip": "RepositoryUoWExample\\Views\\Appointment\\Create.cshtml",
-              "ViewState": "AgIAABYAAAAAAAAAAAAqwCEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T15:15:37.357Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Data\\AppDbContext.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA5wA4AAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:08:19.725Z",
+              "WhenOpened": "2025-07-28T03:40:27.009Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Repository.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\Repository.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Repository\\Repository.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\Repository.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Repository\\Repository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAwwA8AAAA/AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\AppData\\Local\\SourceServer\\940bc666f0adf4c5f96e1780d22ea2d9be48bf721fc942216628a5c55999e5fa\\RepositoryUoWExample\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\DELL\\AppData\\Local\\SourceServer\\940bc666f0adf4c5f96e1780d22ea2d9be48bf721fc942216628a5c55999e5fa\\RepositoryUoWExample\\Controllers\\AppointmentController.cs [Read Only]",
+              "ViewState": "AgIAADcAAAAAAAAAAIAwwGMAAAAAAAAAAQAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:22:03.497Z"
+              "WhenOpened": "2025-07-28T03:39:46.516Z",
+              "EditorCaption": " [Read Only]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Appointment.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Models\\Appointment.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Models\\Appointment.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Models\\Appointment.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Models\\Appointment.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAiwBMAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Layer2\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "RepositoryUoWExample\\Layer2\\UnitOfWork.cs",
+              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Layer2\\UnitOfWork.cs",
+              "RelativeToolTip": "RepositoryUoWExample\\Layer2\\UnitOfWork.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAlwBoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:06:19.925Z"
+              "WhenOpened": "2025-07-28T03:34:19.888Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
-              "RelativeToolTip": "RepositoryUoWExample\\Views\\Appointment\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-22T15:17:13.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\Repository\\IUnitOfWork.cs",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Repository\\IUnitOfWork.cs",
-              "RelativeToolTip": "RepositoryUoWExample\\Repository\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Title": "PatientController.cs",
+              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Controllers\\PatientController.cs",
+              "RelativeDocumentMoniker": "RepositoryUoWExample\\Controllers\\PatientController.cs",
+              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Controllers\\PatientController.cs",
+              "RelativeToolTip": "RepositoryUoWExample\\Controllers\\PatientController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIA/wB0AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T15:21:12.125Z"
+              "WhenOpened": "2025-07-28T03:34:19.905Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\appsettings.json",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\appsettings.json",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\appsettings.json",
-              "RelativeToolTip": "RepositoryUoWExample\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-22T15:07:36.559Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "RepositoryUoWExample.csproj",
-              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\RepositoryUoWExample.csproj",
-              "RelativeDocumentMoniker": "RepositoryUoWExample\\RepositoryUoWExample.csproj",
-              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\RepositoryUoWExample.csproj",
-              "RelativeToolTip": "RepositoryUoWExample\\RepositoryUoWExample.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-22T15:34:48.304Z"
+              "DocumentIndex": 6,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "RepositoryUoWExample\\Controllers\\AppointmentController.cs",
+              "ToolTip": "D:\\Projects\\RepositoryUoWExample\\RepositoryUoWExample\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "RepositoryUoWExample\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAIA9wEQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T03:23:19.088Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -7,12 +7,13 @@
 <h2>Appointments</h2>
 
 <p>
-    @Html.ActionLink("Book New Appointment", "Create")
+    @Html.ActionLink("Book New Appointment  ,", "Create")
+    @Html.ActionLink("Register New Patient", "Index", "Patient")
 </p>
 
 <table class="table table-bordered">
     <tr>
-        <th>Patient</th>
+        <th>PatientId</th>
         <th>Date & Time</th>
         <th>Reason</th>
     </tr>
@@ -20,7 +21,7 @@
     @foreach (var item in Model)
     {
         <tr>
-            <td>@item.PatientName</td>
+            <td>@item.Patient</td>
             <td>@item.AppointmentDateTime.ToString("g")</td>
             <td>@item.Reason</td>
         </tr>

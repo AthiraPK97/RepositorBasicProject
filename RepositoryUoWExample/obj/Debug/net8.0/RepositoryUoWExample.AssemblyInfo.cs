@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RepositoryUoWExample")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8407aba09a156b08f845578ff0e6c8946ba0cb68")]
 [assembly: System.Reflection.AssemblyProductAttribute("RepositoryUoWExample")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RepositoryUoWExample")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

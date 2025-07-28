@@ -1,15 +1,19 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using Microsoft.AspNetCore.Mvc;
 
 namespace RepositoryUoWExample.Models
 {
     public class Appointment
     {
+        [Key]
         public int Id { get; set; }
 
-        [Required]
-        [Display(Name = "Patient Name")]
-        public string PatientName { get; set; }
+        [Required(ErrorMessage = "Please select a patient")]
+
+        public int PatientId { get; set; }
+        [ForeignKey(nameof(PatientId))]
+        public Patient Patient { get; set; }
 
         [Required]
         [DataType(DataType.DateTime)]

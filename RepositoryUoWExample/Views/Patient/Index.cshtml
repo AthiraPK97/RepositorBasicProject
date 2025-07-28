@@ -1,0 +1,30 @@
+﻿@model IEnumerable<RepositoryUoWExample.Models.Patient>
+@{
+    ViewBag.Title = "Patients";
+}
+
+<h2>Patients</h2>
+
+<p>
+    @Html.ActionLink("Register New Patient", "Create")
+    <a href="@Url.Action("Index", "Appointment")" class="btn btn-primary">Back >></a>
+</p>
+
+<table class="table table-bordered">
+    <tr>
+        <th>Patient Name</th>
+        <th>Gender</th>
+        <th>Gender</th>
+        <th>Contact Number</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Name</td>
+            <td>@item.DateOfBirth</td>
+            <td>@item.Gender</td>
+            <td>@item.ContactNumber</td>
+        </tr>
+    }
+</table>
